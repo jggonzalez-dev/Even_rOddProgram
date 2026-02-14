@@ -1,0 +1,14 @@
+C:\Users\nanad\Downloads\EvenOrOddProgram\EvenOrOddProgram\bin\Debug\net10.0\EvenOrOddProgram.exe
+C:\Users\nanad\Downloads\EvenOrOddProgram\EvenOrOddProgram\bin\Debug\net10.0\EvenOrOddProgram.deps.json
+C:\Users\nanad\Downloads\EvenOrOddProgram\EvenOrOddProgram\bin\Debug\net10.0\EvenOrOddProgram.runtimeconfig.json
+C:\Users\nanad\Downloads\EvenOrOddProgram\EvenOrOddProgram\bin\Debug\net10.0\EvenOrOddProgram.dll
+C:\Users\nanad\Downloads\EvenOrOddProgram\EvenOrOddProgram\bin\Debug\net10.0\EvenOrOddProgram.pdb
+C:\Users\nanad\Downloads\EvenOrOddProgram\EvenOrOddProgram\obj\Debug\net10.0\EvenOrOddProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanad\Downloads\EvenOrOddProgram\EvenOrOddProgram\obj\Debug\net10.0\EvenOrOddProgram.AssemblyInfoInputs.cache
+C:\Users\nanad\Downloads\EvenOrOddProgram\EvenOrOddProgram\obj\Debug\net10.0\EvenOrOddProgram.AssemblyInfo.cs
+C:\Users\nanad\Downloads\EvenOrOddProgram\EvenOrOddProgram\obj\Debug\net10.0\EvenOrOddProgram.csproj.CoreCompileInputs.cache
+C:\Users\nanad\Downloads\EvenOrOddProgram\EvenOrOddProgram\obj\Debug\net10.0\EvenOrOddProgram.dll
+C:\Users\nanad\Downloads\EvenOrOddProgram\EvenOrOddProgram\obj\Debug\net10.0\refint\EvenOrOddProgram.dll
+C:\Users\nanad\Downloads\EvenOrOddProgram\EvenOrOddProgram\obj\Debug\net10.0\EvenOrOddProgram.pdb
+C:\Users\nanad\Downloads\EvenOrOddProgram\EvenOrOddProgram\obj\Debug\net10.0\EvenOrOddProgram.genruntimeconfig.cache
+C:\Users\nanad\Downloads\EvenOrOddProgram\EvenOrOddProgram\obj\Debug\net10.0\ref\EvenOrOddProgram.dll
